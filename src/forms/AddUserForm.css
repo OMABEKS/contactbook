@@ -1,0 +1,15 @@
+form input , label {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 25px;
+    margin-left: 35%;
+    text-align: center;
+}
+
+button{
+    margin-top: 1%;
+    width: 200px;
+    margin-left: 50%;
+}
+
